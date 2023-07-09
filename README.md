@@ -12,3 +12,5 @@ Problem 5. [Longest Palindromic Substring](https://leetcode.com/problems/longest
 Problem 6. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 Problem 7. [Reverse Integer](https://leetcode.com/problems/reverse-integer)
+
+Problem 8. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
