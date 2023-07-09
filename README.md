@@ -10,3 +10,5 @@ Problem 4. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of
 Problem 5. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
 Problem 6. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+
+Problem 7. [Reverse Integer](https://leetcode.com/problems/reverse-integer)
